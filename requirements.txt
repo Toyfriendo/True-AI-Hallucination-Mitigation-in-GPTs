@@ -1,0 +1,26 @@
+# Core ML and AI packages
+sentence-transformers==2.7.0
+openai==1.12.0
+
+# Web framework
+streamlit==1.31.0
+
+# Data processing
+pandas==2.2.0
+
+# Utilities
+tqdm==4.66.0
+python-dotenv==1.0.1
+requests==2.31.0
+
+# PDF processing (if you added this for PDF support)
+PyPDF2==3.0.1
+
+# Vector database
+faiss-cpu==1.7.4
+
+# Additional dependencies that might be needed
+numpy>=1.26.0
+scikit-learn>=1.3.0
+torch>=1.11.0
+transformers>=4.34.0
