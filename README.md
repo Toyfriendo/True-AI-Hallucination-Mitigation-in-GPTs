@@ -183,7 +183,3 @@ This project has been tested with:
 - Python 3.8+
 - OpenAI API key
 - See `requirements.txt` for full dependency list
-
-## License
-
-This project is open source. Feel free to modify and distribute.
